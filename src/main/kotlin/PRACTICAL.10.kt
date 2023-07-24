@@ -25,7 +25,7 @@ class Car(var type: String, var model: String, var price: Double, var owner: Str
 
 fun main() {
 
-    val myCar = Car("Sedan", "Toyota Camry", 25000.0, "John Doe", 10000.0)
+    val myCar = Car("Sedan", "Toyota Camry", 25000.0, "Umang Raval", 10000.0)
 
     println("Car Price: ${myCar.getCarPrice()}")
     println("Original Car Price: ${myCar.getOriginalCarPrice()}")
