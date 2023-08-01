@@ -1,4 +1,4 @@
-# MAD_PRACTCIAL-1_21012011131
+# MAD_PRACTCIAL1_21012011131
 1.Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 ![image](https://github.com/DepresseDeeZ/MAD_PRACTCIAL-1_21012011131/assets/132985504/e8f3fc48-de9f-49b4-b142-99103fb41634)
 
